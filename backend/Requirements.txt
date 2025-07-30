@@ -1,0 +1,12 @@
+ Dependencies                            Reasons why my code depends on them.
+
+ FastAPI                               Your main web framework                                     
+ Uvicorn                               ASGI server to run FastAPI apps                              
+ SQLAlchemy                            ORM for managing database models and queries                
+ Pydantic                              For request validation with data models                    
+ Databases                             To use async DB interactions
+ fastapi[all] (shortcut)               Installs FastAPI and most common extras like CORS support    
+
+ fastapi.middleware.cors                To allow  frontend (localhost:5173) to access the backend 
+                      
+  
