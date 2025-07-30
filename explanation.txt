@@ -1,0 +1,11 @@
+Features I implemented:
+1)I implemented a search function.
+2)I implemented a statistics function.
+
+Things I learnt from the assignment:
+1) TypeScript is very different from JavaScript, although there are similarities.
+2) Making a task tracker takes time and knowledge.
+
+Challenges I faced during implementation:
+1) The manual was a bit hard to read, so I repeated a couple of lines of code to fix an error.
+2) I got errors trying to make the typescript understand the variable type.
